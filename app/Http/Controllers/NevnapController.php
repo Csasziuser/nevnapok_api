@@ -13,7 +13,7 @@ class NevnapController extends Controller
         {
             
         }
-        else if ($request->has('nap')) 
+        else if ($request->has('nev')) 
         {
             
         }
